@@ -1,6 +1,8 @@
 {
   "name": "vscode-creme-theme",
   "displayName": "Creme",
+  "icon": "creme-icon.png",
+  "publisher": "jSi",
   "description": "Light theme for VSCode that is easy on the eyes",
   "version": "1.0.3",
   "engines": {
